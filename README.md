@@ -16,22 +16,22 @@ Plant mitochondrial genomes are among the largest and most structurally complex 
 
 ## <font color="#2c7a3f">✦ Core Features</font>
 
-🧬 **Circular Linker Map** — Visualizes structural relationships and synteny between Mitochondrial (MT) and Chloroplast (CP) genomes. It uses an integrated BLASTN engine to map cross-organelle insertions and generates highly customizable, publication-ready circular plots.
+**Circular Linker Map** — Visualizes structural relationships and synteny between Mitochondrial (MT) and Chloroplast (CP) genomes. It uses an integrated BLASTN engine to map cross-organelle insertions and generates highly customizable, publication-ready circular plots.
 
-📏 **Linear Multi-FASTA Synteny** — Performs multi-species linear synteny analysis. Users can input multiple FASTA files, automatically run pair-wise BLAST alignments, and generate linear synteny track visualizations with customizable blocks and link curves.
+**Linear Multi-FASTA Synteny** — Performs multi-species linear synteny analysis. Users can input multiple FASTA files, automatically run pair-wise BLAST alignments, and generate linear synteny track visualizations with customizable blocks and link curves.
 
-🏷️ **GeSeq Annotation Integration** — Provides direct, seamless access to the GeSeq web server (via embedded PyWebView or system browser) for rapid and highly accurate organellar genome annotation.
+**GeSeq Annotation Integration** — Provides direct, seamless access to the GeSeq web server (via embedded PyWebView or system browser) for rapid and highly accurate organellar genome annotation.
 
-📊 **Genome Composition Analysis** — Computes base composition (A/T/G/C%) and AT/GC skews. Automatically extracts and calculates statistics for the whole genome as well as specific functional regions (CDS, tRNA, rRNA).
+**Genome Composition Analysis** — Computes base composition (A/T/G/C%) and AT/GC skews. Automatically extracts and calculates statistics for the whole genome as well as specific functional regions (CDS, tRNA, rRNA).
 
-🔁 **Comprehensive Repeats Analysis** — Provides a three-in-one suite for repeat detection, essential for understanding genome recombination:
+**Comprehensive Repeats Analysis** — Provides a three-in-one suite for repeat detection, essential for understanding genome recombination:
 * **SSR Analysis:** Detects microsatellites (1–6 bp motifs) via MISA with customizable repeat thresholds and interactive nested donut chart visualization.
 * **Tandem Repeats:** Identifies tandem repeats via TRF and renders a genome-wide AT content track map for both circular and linear topologies.
 * **Dispersed Repeats:** Locates direct and inverted dispersed repeats via ROUSFinder, classifying forward/reverse repeats with customizable length and scoring parameters.
 
-🧬 **RSCU & AA Usage** — Calculates Relative Synonymous Codon Usage (RSCU) and Amino Acid (AA) frequencies directly from annotated GenBank files. Supports standard and alternative genetic codes, generating detailed stacked bar plots and frequency charts.
+**RSCU & AA Usage** — Calculates Relative Synonymous Codon Usage (RSCU) and Amino Acid (AA) frequencies directly from annotated GenBank files. Supports standard and alternative genetic codes, generating detailed stacked bar plots and frequency charts.
 
-📈 **Ka/Ks Evolutionary Analysis** — Automates evolutionary rate calculations. Integrates a MACSE alignment pipeline and KaKs_Calculator (supporting methods like MA, NG, YN, LWL, etc.) to compute non-synonymous/synonymous substitution rates, generating highly customizable boxplot visualizations per gene.
+**Ka/Ks Evolutionary Analysis** — Automates evolutionary rate calculations. Integrates a MACSE alignment pipeline and KaKs_Calculator (supporting methods like MA, NG, YN, LWL, etc.) to compute non-synonymous/synonymous substitution rates, generating highly customizable boxplot visualizations per gene.
 
 ## <font color="#2c7a3f">✦ Input & Compatibility</font>
 
