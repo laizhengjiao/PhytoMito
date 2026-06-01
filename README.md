@@ -4,7 +4,7 @@
 
 # *PhytoMito*
 
-### <font color="#2c7a3f">Plant Organelle Genome & Synteny Toolkit</font>
+### <font color="#2c7a3f">Plant Organelle Genome Analysis Toolkit</font>
 
 </div>
 
