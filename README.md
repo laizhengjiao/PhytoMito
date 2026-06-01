@@ -45,3 +45,7 @@ Plant mitochondrial genomes are among the largest and most structurally complex 
 * **Publication-Ready Graphics:** Export high-resolution plots in raster (PNG) and vector (PDF, SVG) formats with full DPI control (up to 900 DPI).
 * **Tabular Data:** One-click export of analysis tables and BLAST hit results to Excel (`.xlsx`) or CSV formats.
 * **Batch Export:** Automatically packages analysis tables and corresponding visualization plots into structured `.zip` archives for easy sharing and reporting.
+
+## <font color="#2c7a3f">✦ Citation</font>
+
+* **Unpublished** 
